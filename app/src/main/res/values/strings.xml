@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">netflix_clone_android_test</string>
+    <string name="menu_mensagem">mensagem</string>
+    <string name="menu_volume">Volume</string>
+    <string name="menu_episodios">Episódios</string>
+    <string name="menu_avaliacoes">Avaliacões</string>
+</resources>
